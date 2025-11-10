@@ -37,13 +37,13 @@ A **denoising autoencoder** variant is also included.
 ---
 
 ## 📦 Repo Structure
-Deterministic_Autoencoders/
+```Deterministic_Autoencoders/
 ├─ notebooks/ # Jupyter notebook
 ├─ reports/ # Final report + appendices (PDF)
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
-
+```
 ---
 
 ## 🧰 Tech Stack
